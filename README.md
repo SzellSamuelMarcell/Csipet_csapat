@@ -13,7 +13,7 @@
 ## Projektleírás
 A projekt célja a Kaggle-ön meghirdetett **[Jane Street Real-Time Market Data Forecasting](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting)** verseny feladatának megoldása. 
 
-A feladat során valós, éles kereskedési rendszerekből származó, anonimizált adathalmazzal dolgozunk. A cél egy olyan prediktív gépi tanulási / mélytanulási modell felépítése, amely képes megbízhatóan előrejelezni a különböző pénzügyi instrumentumok jövőbeli megtérülését leíró célváltozót, kiemelten a **`responder_6`** értéket.
+A feladat során valós, éles kereskedési rendszerekből származó, anonimizált adathalmazzal dolgozunk. A cél egy olyan prediktív mélytanulási modell felépítése, amely képes megbízhatóan előrejelezni a különböző pénzügyi instrumentumok jövőbeli megtérülését leíró célváltozót, kiemelten a **`responder_6`** értéket.
 
 ---
 
